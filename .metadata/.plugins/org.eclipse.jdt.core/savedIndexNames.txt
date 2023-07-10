@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Users\Admin\OneDrive\spring5fs\.metadata\.plugins\org.eclipse.jdt.core
+1847012705.index
+1885460537.index
+1865797976.index
+2567077132.index
+511564270.index
+4034115778.index
+124184751.index
+1513461350.index
+732342.index
+3692428050.index
+2210931322.index
+3993324954.index
+1647392879.index
+1769662840.index
+3887268273.index
+2149141581.index
+2427728167.index
+1997282336.index

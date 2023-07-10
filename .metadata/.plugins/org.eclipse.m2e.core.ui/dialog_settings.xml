@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap16"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap14"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap13"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap12"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap11"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap10"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap09"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap08"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap07"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap06"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap05"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap04"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap03"/>
+			<item value="C:\Users\Admin\OneDrive\spring5fs\sp5-chap02"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

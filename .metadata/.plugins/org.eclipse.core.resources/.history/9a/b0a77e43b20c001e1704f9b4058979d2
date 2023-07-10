@@ -1,0 +1,17 @@
+package controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import spring.MemberDao;
+import spring.MemberRegisterService;
+
+@RestController
+public class RestMemberController {
+	private MemberDao memberDao;
+	private MemberRegisterService registerService;
+	
+	@GetMapping("/api/members")
+	public List<Member> members() {
+		return memberDao.selectAll();
+	}
+}
